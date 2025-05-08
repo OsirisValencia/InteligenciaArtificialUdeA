@@ -3,4 +3,4 @@ Repositorio para almacenar solución de mi trabajo de inteligencia artificial, s
 
 Osiris del pilar Valencia celis <br/>
 Ingeniera civil <br/>
-1039887412
+1039887412 <br/>
