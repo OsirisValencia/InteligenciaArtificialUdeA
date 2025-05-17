@@ -4,4 +4,4 @@ Repositorio para almacenar solución de mi trabajo de inteligencia artificial, s
 Osiris del pilar Valencia celis <br/>
 Ingeniera civil <br/>
 1039887412 <br/>
-Link del video entrega #2: 
+Link del video entrega #2: [https://youtu.be/wLdVc5B5_1Y](https://youtu.be/wLdVc5B5_1Y)
